@@ -28,6 +28,10 @@ Here are some ideas to get you started:
   <!-- - ✍️ Check out my blog: [x_plained on Medium](https://medium.com/@akarshijain) -->
   <!-- - 🎥 All my links: [Linktree](https://linktr.ee/akarshijain) -->
 - 🌈 Pronouns: He/Him
+<!--
+### Profile Visits 👀
+<p align="left"> <img src="https://profile-counter.glitch.me/saisathwikreddy/count.svg" /></p> 
+-->
 
 ### Languages and Tools:
 
