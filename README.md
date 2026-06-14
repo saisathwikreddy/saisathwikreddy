@@ -181,7 +181,7 @@ Here are some ideas to get you started:
 
 ### 📈 GitHub Insights:
 
-![Total Commits](https://img.shields.io/badge/Total_Commits-696-brightgreen)
+![Total Commits](https://img.shields.io/badge/Total_Commits-1-brightgreen)
 
 <picture>
   <source
